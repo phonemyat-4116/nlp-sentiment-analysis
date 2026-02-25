@@ -133,6 +133,3 @@ If none of these columns exist, the app will show an error.
 
 ---
 
-## License
-
-Add a license file (`LICENSE`) if you plan to distribute this project.
